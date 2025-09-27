@@ -21,7 +21,7 @@ A simple login screen created using **HTML** and **CSS**. This project demonstra
 
 ## Screenshot
 
-![Screenshot of the login page](imglogin/login-screenshot.png)
+![Screenshot of the login page](login-screen-html-css/imglogin/login-screenshot.png)
 
 ## Author 
 
