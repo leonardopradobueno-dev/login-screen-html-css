@@ -21,7 +21,7 @@ A simple login screen created using **HTML** and **CSS**. This project demonstra
 
 ## Screenshot
 
-![Login screen](https://raw.githubusercontent.com/leonardopradobueno-dev/login-screen-html-css/main/screenshot/login-screenshot.png)
+<img src="screenshot/login-screenshot.png" width="600">
 
 ## Author 
 
